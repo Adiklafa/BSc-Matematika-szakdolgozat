@@ -1,2 +1,2 @@
-# BSc-Matematika-szakdolgozat
+# BSc Matematika szakdolgozat
 ELTE Matematika BSc diplomamunka
